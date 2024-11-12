@@ -1,0 +1,8 @@
+/target
+.idea
+/.env
+Dockerfile
+docker-compose.yml
+.debug/
+.vscode/
+prompts/
